@@ -2,7 +2,7 @@
 In partnership with [WAT.ai](https://watai.ca/#/)
 
 # Technical Project Managers
-[Lino Kee] (https://www.linkedin.com/in/linokee0423/) and [Edson Takei](https://www.linkedin.com/in/edsontakei/) 
+[Lino Kee](https://www.linkedin.com/in/linokee0423/) and [Edson Takei](https://www.linkedin.com/in/edsontakei/) 
 
 # Goal
 This project introduces an AI-powered assistant designed to help seniors live independently by combining safety monitoring with personalized daily support. Equipped with computer vision, the assistant identifies hazards in the home—such as obstructions, spills, and tripping risks—and offers recommendations to mitigate them. It also features a conversational interface that acts as a friendly, proactive assistant, providing medication and appointment reminders as well as ongoing wellness check-ins. Integrated with voice-to-text capabilities and real-time safety insights, the assistant delivers a seamless, user-centric experience that aims to enhance safety, simplify daily routines, and foster independence for seniors.

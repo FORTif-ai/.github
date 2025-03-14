@@ -11,3 +11,7 @@ This project introduces an AI-powered assistant designed to help seniors live in
 As the global population ages, many seniors face significant challenges in maintaining their independence while ensuring their safety. Common risks include falls, accidents at home due to environmental hazards, and difficulties in managing daily tasks, such as taking medications or attending appointments. These issues often lead to a decline in quality of life and can result in a need for constant caregiver assistance, which is not always feasible or sustainable.
 
 The goal of this project is to address these challenges by providing seniors with an AI-driven assistant that promotes both safety and independence. By using computer vision for hazard detection, gait analysis for fall vulnerability assessment, and a user-friendly chatbot for daily reminders and check-ins, we hope to ensure that seniors can confidently navigate their living spaces while staying on top of their personal care routines. This project aims to reduce the risk of accidents, improve daily living, and empower seniors to maintain their autonomy in a safe, supportive environment.
+
+# The Team
+
+(Team bio)

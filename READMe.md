@@ -17,3 +17,20 @@ The goal of this project is to address these challenges by providing seniors wit
 Hello, my name is Dhruv Sharma and I'm a 4th year Management Engineering student! My main interests include playing and watching sports such as basketball and cricket. I also really enjoy playing video games. My main role on the team is to help with the fall detection model!
 ## Naomi Eshetu (@naomieshetu)
 Hi my name is Naomi and I'm a 3rd year Biomedical Engineering student! I enjoy reading, roller skating, and watching true crime. My role on the team is to do hazard detection and biomechanics research.
+## Anahad Dhaliwal (@Anahadd)
+I'm Anahad, first year CE student. I love coding and watching sports. I'm very interested in LLMs.
+## Marco Kee (@Keezyyy)
+Hello! My name is Marco and I’m a 2nd year Health Sciences student. I love watching sports (especially football), going to the gym, and watching a new movie with friends. I’m involved with the hazard detection and biomechanics research for this project!
+## Adnan Habib (@adnxnhabib)
+Hey! I'm Adnan and I'm a 4th year CS/BBA student. I love video games, movies, going to the gym and chilling. I'm part of the hazard detection team helping to build our model!
+## Owen Kim (@Owenkim2006)
+Hi, I'm Owen and I'm a first year BME student. I am interested in learning about new developments in ML/AI, and I love playing many sports such as basketball, volleyball and ultimate frisbee. I will be working on the hazard detection and biomechanics sub team for this project.
+## Sania Banga (@Saniabanga)
+Hi! My name is Sania and I’m a 4th year student majoring in CS. I love reading, hiking and watching horror movies. My role on the team is to help with the fall and hazard detection!
+## Meghana Yarlagadda (@yarlas99)
+Hello I am Meghana, 3rd year Statistics and Computational Mathematics student. I will be working on the Fall and hazard detection team. 
+## Larris Xie (@Profilist)
+Hi, I'm Larris, a 1st year CS student at the University of Waterloo. I enjoy playing the piano and basketball in my free time. I'm currently working on LLM agents for FORTif.ai! 
+## Akil Giri (@akilgiri)
+ Hi, I’m Akil, a 3rd year Computer Engineering student at the University of Waterloo. I enjoy playing video games and going on walks in my free time. I’m currently working on AI Chatbot team on FORTif.ai
+## Lucas Khan

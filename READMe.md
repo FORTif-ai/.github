@@ -13,4 +13,7 @@ As the global population ages, many seniors face significant challenges in maint
 The goal of this project is to address these challenges by providing seniors with an AI-driven assistant that promotes both safety and independence. By using computer vision for hazard detection, gait analysis for fall vulnerability assessment, and a user-friendly chatbot for daily reminders and check-ins, we hope to ensure that seniors can confidently navigate their living spaces while staying on top of their personal care routines. This project aims to reduce the risk of accidents, improve daily living, and empower seniors to maintain their autonomy in a safe, supportive environment.
 
 # Core Members
-(Bios)
+## Dhruv Sharma (@dhruvsharma11)
+Hello, my name is Dhruv Sharma and I'm a 4th year Management Engineering student! My main interests include playing and watching sports such as basketball and cricket. I also really enjoy playing video games. My main role on the team is to help with the fall detection model!
+## Naomi Eshetu (@naomieshetu)
+Hi my name is Naomi and I'm a 3rd year Biomedical Engineering student! I enjoy reading, roller skating, and watching true crime. My role on the team is to do hazard detection and biomechanics research.

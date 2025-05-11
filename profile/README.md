@@ -50,74 +50,82 @@ The goal of this project is to address these challenges by providing seniors wit
 ## 📚 Interesting Background Papers and Links
 
 ### 1. 👵 Elderly Falls  
-#### Key Articles and Research Papers
+#### Overview  
+Key epidemiological studies highlight the prevalence and consequences of falls among adults aged 65+, underscoring the need for proactive hazard detection in home environments. These reports inform our risk thresholds and help prioritize the most critical obstruction types.  
+#### Key Articles and Research Papers  
 - *Nonfatal and Fatal Falls Among Adults Aged ≥65 Years*  
 - Kakara, R., Bergen, G., Burns, E., & Stevens, M. (2023). *CDC MMWR Report*  
 
-### 2. 🛠️ Tools and Tutorials for OpenCV and YOLO  
-#### OpenCV Resources
+### 2. 🏡 Design Principles to Accommodate Older Adults  
+#### Overview  
+Design guidelines for older adults emphasize clear visual cues, minimized clutter, and intuitive interfaces—principles we incorporate into both our physical hazard alerts and chatbot UX.  
+- Farage, M. A., Miller, K. W., Elsner, P., & Maibach, H. I. (2012). *Global Journal of Health Science: Design Principles for Older Adults*  
+
+### 3. 🖥️ Computer Vision Techniques  
+#### Overview  
+Core CV methods—object detection, semantic segmentation, and AR overlays—enable real-time identification and visualization of hazards in complex home scenes.  
+- [OpenCV Documentation](https://docs.opencv.org/4.x/index.html)  
+- [OpenCV GitHub Repository](https://github.com/opencv/opencv)  
+
+### 4. 🛠️ Tools and Tutorials for OpenCV and YOLO  
+#### Overview  
+Practical tutorials and libraries streamline model prototyping, from image preprocessing in OpenCV to deploying YOLO for fast, accurate object detection.  
+**OpenCV Resources**  
 - [OpenCV Tutorials (C++ & Python)](https://docs.opencv.org/4.x/tutorials.html)  
 - [OpenCV Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
-#### YOLO Resources
+**YOLO Resources**  
 - [YOLO for Object Detection (Darknet)](https://pjreddie.com/darknet/yolo/)  
 - Aggarwal, A. (2024). *YOLO Explained* on Medium  
 - Kalra, K. (2023). *YOLO Object Detection Overview*  
 
-### 3. 🏡 Design Principles to Accommodate Older Adults  
-- Farage, M. A., Miller, K. W., Elsner, P., & Maibach, H. I. (2012). *Global Journal of Health Science: Design Principles for Older Adults*  
-
-### 4. 🧠 Convolutional Neural Networks (CNNs)  
-- Essential for image classification tasks. FORTif.ai will use CNNs to analyze home-interior images and extract hazard features.  
-- **Resource:** [IBM: Convolutional Neural Networks](https://www.ibm.com/think/topics/convolutional-neural-networks)  
-
 ### 5. 🖼️ Image Classification  
-- Fundamental to classifying and scoring images of safe vs. hazardous environments. Ergonomic benchmarks derived from senior-friendly home images inform the model.  
-- **Resources:**  
-  - [Custom Vision Service: Getting Started](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-build-a-classifier)  
-  - [Image Classification on Papers With Code](https://paperswithcode.com/task/image-classification)  
-  - [Viso.ai: Image Classification](https://viso.ai/computer-vision/image-classification/)  
+#### Overview  
+Classification benchmarks distinguish safe versus hazardous scenes, informing both the risk-scoring system and the chatbot’s contextual guidance.  
+- [Custom Vision Service: Getting Started](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-build-a-classifier)  
+- [Image Classification on Papers With Code](https://paperswithcode.com/task/image-classification)  
+- [Viso.ai: Image Classification](https://viso.ai/computer-vision/image-classification/)  
 
-### 6. 🎮 Reinforcement Learning  
-- Used to develop a safety-scoring system: preprocessed images guide an RL agent to detect obstructions and assign risk scores.  
-- **Resources:**  
-  - [Getting Started with Reinforcement Learning (Medium)](https://gordicaleksa.medium.com/how-to-get-started-with-reinforcement-learning-rl-4922fafeaf8c)  
-  - [UBC CPSC533: Reinforcement Learning](https://www.cs.ubc.ca/~van/cpsc533/rl.html)  
+### 6. ⚙️ AI/ML Frameworks  
+#### Overview  
+TensorFlow and PyTorch underpin our model development, offering tools for CNN training, RL experiments, and seamless deployment pipelines.  
+- [TensorFlow](https://www.tensorflow.org/)  
+- [5 Best Resources to Learn TensorFlow (Medium)](https://robterceros.medium.com/the-5-best-resources-to-learn-tensorflow-in-2020-65b764a5fb8c)  
+- [PyTorch](https://pytorch.org/)  
 
 ### 7. 🐍 Data Manipulation with Python Tools  
-- Libraries like Matplotlib, Pandas, NumPy, and Scikit-learn support preprocessing, visualization, and feature engineering.  
-- **Resources:**  
-  - [Kaggle Discussion: Top Matplotlib Visualizations](https://www.kaggle.com/discussions/general/414271)  
-  - [Machine Learning Plus: Master Plots in Python](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
-  - [Awesome Scikit-Learn GitHub](https://github.com/fkromer/awesome-scikit-learn)  
+#### Overview  
+Effective preprocessing and feature engineering rely on libraries like Pandas, NumPy, Matplotlib, and Scikit-learn—essential for cleaning CV datasets and visualizing model performance.  
+- [Kaggle Discussion: Top Matplotlib Visualizations](https://www.kaggle.com/discussions/general/414271)  
+- [Machine Learning Plus: Master Plots in Python](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
+- [Awesome Scikit-Learn GitHub](https://github.com/fkromer/awesome-scikit-learn)  
 
 ### 8. 🚶 Human Biomechanics  
-- Gait analysis and common gait abnormalities in seniors inform hazard-scoring algorithms.  
-- **Resources:**  
-  - [Gait Patterns in Older Adults (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5318488/)  
-  - [Gait Variability & Fall Risk (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2872829/)  
-  - [Rehabilitation Biomechanics (Nature)](https://www.nature.com/articles/s44172-024-00193-5)  
+#### Overview  
+Gait analysis research identifies movement patterns and common abnormalities in seniors, informing our hazard-scoring algorithms and risk thresholds.  
+- [Gait Patterns in Older Adults (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5318488/)  
+- [Gait Variability & Fall Risk (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2872829/)  
+- [Rehabilitation Biomechanics (Nature)](https://www.nature.com/articles/s44172-024-00193-5)  
 
-### 9. 🖥️ Computer Vision Techniques  
-- Core methods: object detection, image classification, and augmented reality overlays for hazard highlighting.  
-- **Resources:**  
-  - [OpenCV Documentation](https://docs.opencv.org/4.x/index.html)  
-  - [OpenCV GitHub Repository](https://github.com/opencv/opencv)  
+### 9. 🧠 Convolutional Neural Networks (CNNs)  
+#### Overview  
+CNN architectures power feature extraction and classification in our hazard detection pipeline, enabling the model to learn visual patterns of risk versus safety.  
+- [IBM: Convolutional Neural Networks](https://www.ibm.com/think/topics/convolutional-neural-networks)  
 
-### 10. ⚙️ AI/ML Frameworks  
-- TensorFlow and PyTorch provide the backbone for model development, training, and deployment.  
-- **Resources:**  
-  - [TensorFlow](https://www.tensorflow.org/)  
-  - [5 Best Resources to Learn TensorFlow (Medium)](https://robterceros.medium.com/the-5-best-resources-to-learn-tensorflow-in-2020-65b764a5fb8c)  
-  - [PyTorch](https://pytorch.org/)  
+### 10. 🎮 Reinforcement Learning  
+#### Overview  
+RL techniques guide the development of a dynamic scoring system, where an agent learns to assign risk levels based on environmental feedback and obstruction severity.  
+- [Getting Started with Reinforcement Learning (Medium)](https://gordicaleksa.medium.com/how-to-get-started-with-reinforcement-learning-rl-4922fafeaf8c)  
+- [UBC CPSC533: Reinforcement Learning](https://www.cs.ubc.ca/~van/cpsc533/rl.html)  
 
 ## Project Timeline
 
 | Month          | Milestones                                                                                                                                                                                                                   |
 | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **May 2025**   | - **Preliminary development** of the AI Chatbot and Hazard Detection Model<br>- **Gather CV datasets** of cluttered vs. uncluttered household interiors<br>- **Form subgroups** (software development, model scoring, data cleansing)<br>- **Integrate subteam outputs** into prototype |
-| **June 2025**  | - **Finalize individual components** for both the Hazard Detection and AI Chatbot models<br>- **Conduct preliminary testing & model assessment** (accuracy, precision/recall)<br>- **Develop hazard risk scoring system** using ML methods (cross-validation, ROC analysis)<br>- **Optimize datasets** and thresholds based on test feedback |
-| **July 2025**  | - **Integrate** Hazard Detection and AI Chatbot models into a unified pipeline<br>- **Resolve merge conflicts** and align codebases<br>- **Procure cameras & data-capture tools** for real-world testing<br>- **Run in-situ performance tests** in mock household environments |
-| **August 2025**| - **Comprehensive testing & documentation** (performance metrics, data fidelity, UX notes)<br>- **Publish development findings** in a project report or paper<br>- **Deliver Minimum Viable Product (MVP)** to stakeholders<br>- **Iterate refinements** to meet performance targets and user feedback |
+| **May 2025**   | • **Preliminary development** of the AI Chatbot and Hazard Detection Model<br>• **Gather CV datasets** of cluttered vs. uncluttered household interiors<br>• **Form subgroups** (software development, model scoring, data cleansing)<br>• **Integrate subteam outputs** into prototype |
+| **June 2025**  | • **Finalize individual components** for both the Hazard Detection and AI Chatbot models<br>• **Conduct preliminary testing & model assessment** (accuracy, precision/recall)<br>• **Develop hazard risk scoring system** using ML methods (cross-validation, ROC analysis)<br>• **Optimize datasets** and thresholds based on test feedback |
+| **July 2025**  | • **Integrate** Hazard Detection and AI Chatbot models into a unified pipeline<br>• **Resolve merge conflicts** and align codebases<br>• **Procure cameras & data-capture tools** for real-world testing<br>• **Run in-situ performance tests** in mock household environments |
+| **August 2025**| • **Comprehensive testing & documentation** (performance metrics, data fidelity, UX notes)<br>• **Publish development findings** in a project report or paper<br>• **Deliver Minimum Viable Product (MVP)** to stakeholders<br>• **Iterate refinements** to meet performance targets and user feedback |
+
 
 # The Team
 
@@ -176,7 +184,20 @@ Hi, I’m Akil, a 3rd year Computer Engineering student at the University of Wat
 - **Lucas Khan**
   Bio coming soon
 
+## Stakeholder Members
 
+Our stakeholders include the family caregivers and seniors whose real-world needs drive FORTif.ai’s design:
 
+- **Family Caregivers:**  
+  Lino and Edson both support elderly grandparents who face memory loss, mobility challenges, and require ongoing assistance for daily tasks. Their firsthand insights into appointment scheduling, medication reminders, and home-safety concerns inform every feature decision.
+
+- **Professional & Informal Caregivers:**  
+  Nurses, aides, and family members responsible for elderly loved ones will validate that FORTif.ai remains **intuitive**, **engaging**, and **low-friction**, reducing their own cognitive load while empowering them to monitor and support seniors more effectively.
+
+- **Senior End-Users:**  
+  Seniors themselves—often living with multiple health issues—will provide critical feedback on conversational tone, alert frequency, and interface simplicity. Their lived experience ensures the assistant feels like a trusted companion rather than another complex tool.
+
+- **Subject-Matter Contributors:**  
+  While they may not code or draft technical documentation, seniors and caregivers bring invaluable domain knowledge—from gait challenges in the home to typical medication schedules—that shapes our hazard thresholds, reminder logic, and overall user experience.
 
 

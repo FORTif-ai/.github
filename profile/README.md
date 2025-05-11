@@ -2,7 +2,6 @@
 In partnership with [WAT.ai](https://watai.ca/#/)
 
 ## Your Technical Project Managers
-## Your Technical Project Managers
 
 ### Lino Kee
 - **LinkedIn:** https://www.linkedin.com/in/linokee0423/  

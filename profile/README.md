@@ -46,7 +46,68 @@ As the global population ages, many seniors face significant challenges in maint
 
 The goal of this project is to address these challenges by providing seniors with an AI-driven assistant that promotes both safety and independence. By using computer vision for hazard detection, gait analysis for fall vulnerability assessment, and a user-friendly chatbot for daily reminders and check-ins, we hope to ensure that seniors can confidently navigate their living spaces while staying on top of their personal care routines. This project aims to reduce the risk of accidents, improve daily living, and empower seniors to maintain their autonomy in a safe, supportive environment.
 
-## Interesting Background Papers and Links
+## 📚 Interesting Background Papers and Links
+
+### 1. 👵 Elderly Falls  
+#### Key Articles and Research Papers
+- *Nonfatal and Fatal Falls Among Adults Aged ≥65 Years*  
+- Kakara, R., Bergen, G., Burns, E., & Stevens, M. (2023). *CDC MMWR Report*  
+
+### 2. 🛠️ Tools and Tutorials for OpenCV and YOLO  
+#### OpenCV Resources
+- [OpenCV Tutorials (C++ & Python)](https://docs.opencv.org/4.x/tutorials.html)  
+- [OpenCV Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)  
+#### YOLO Resources
+- [YOLO for Object Detection (Darknet)](https://pjreddie.com/darknet/yolo/)  
+- Aggarwal, A. (2024). *YOLO Explained* on Medium  
+- Kalra, K. (2023). *YOLO Object Detection Overview*  
+
+### 3. 🏡 Design Principles to Accommodate Older Adults  
+- Farage, M. A., Miller, K. W., Elsner, P., & Maibach, H. I. (2012). *Global Journal of Health Science: Design Principles for Older Adults*  
+
+### 4. 🧠 Convolutional Neural Networks (CNNs)  
+- Essential for image classification tasks. FORTif.ai will use CNNs to analyze home-interior images and extract hazard features.  
+- **Resource:** [IBM: Convolutional Neural Networks](https://www.ibm.com/think/topics/convolutional-neural-networks)  
+
+### 5. 🖼️ Image Classification  
+- Fundamental to classifying and scoring images of safe vs. hazardous environments. Ergonomic benchmarks derived from senior-friendly home images inform the model.  
+- **Resources:**  
+  - [Custom Vision Service: Getting Started](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-build-a-classifier)  
+  - [Image Classification on Papers With Code](https://paperswithcode.com/task/image-classification)  
+  - [Viso.ai: Image Classification](https://viso.ai/computer-vision/image-classification/)  
+
+### 6. 🎮 Reinforcement Learning  
+- Used to develop a safety-scoring system: preprocessed images guide an RL agent to detect obstructions and assign risk scores.  
+- **Resources:**  
+  - [Getting Started with Reinforcement Learning (Medium)](https://gordicaleksa.medium.com/how-to-get-started-with-reinforcement-learning-rl-4922fafeaf8c)  
+  - [UBC CPSC533: Reinforcement Learning](https://www.cs.ubc.ca/~van/cpsc533/rl.html)  
+
+### 7. 🐍 Data Manipulation with Python Tools  
+- Libraries like Matplotlib, Pandas, NumPy, and Scikit-learn support preprocessing, visualization, and feature engineering.  
+- **Resources:**  
+  - [Kaggle Discussion: Top Matplotlib Visualizations](https://www.kaggle.com/discussions/general/414271)  
+  - [Machine Learning Plus: Master Plots in Python](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
+  - [Awesome Scikit-Learn GitHub](https://github.com/fkromer/awesome-scikit-learn)  
+
+### 8. 🚶 Human Biomechanics  
+- Gait analysis and common gait abnormalities in seniors inform hazard-scoring algorithms.  
+- **Resources:**  
+  - [Gait Patterns in Older Adults (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5318488/)  
+  - [Gait Variability & Fall Risk (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2872829/)  
+  - [Rehabilitation Biomechanics (Nature)](https://www.nature.com/articles/s44172-024-00193-5)  
+
+### 9. 🖥️ Computer Vision Techniques  
+- Core methods: object detection, image classification, and augmented reality overlays for hazard highlighting.  
+- **Resources:**  
+  - [OpenCV Documentation](https://docs.opencv.org/4.x/index.html)  
+  - [OpenCV GitHub Repository](https://github.com/opencv/opencv)  
+
+### 10. ⚙️ AI/ML Frameworks  
+- TensorFlow and PyTorch provide the backbone for model development, training, and deployment.  
+- **Resources:**  
+  - [TensorFlow](https://www.tensorflow.org/)  
+  - [5 Best Resources to Learn TensorFlow (Medium)](https://robterceros.medium.com/the-5-best-resources-to-learn-tensorflow-in-2020-65b764a5fb8c)  
+  - [PyTorch](https://pytorch.org/)  
 
 ## Project Timeline
 

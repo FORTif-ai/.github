@@ -1,7 +1,7 @@
 # FORTif.ai: An AI assistant for Independent Safe Senior Living 
 In partnership with [WAT.ai](https://watai.ca/#/)
 
-# Your Technical Project Managers
+## Your Technical Project Managers
 [Lino Kee](https://www.linkedin.com/in/linokee0423/) and [Edson Takei](https://www.linkedin.com/in/edsontakei/) 
 
 ## Ultimate Objective

@@ -126,6 +126,17 @@ RL techniques guide the development of a dynamic scoring system, where an agent 
 | **July 2025**  | • **Integrate** Hazard Detection and AI Chatbot models into a unified pipeline<br>• **Resolve merge conflicts** and align codebases<br>• **Procure cameras & data-capture tools** for real-world testing<br>• **Run in-situ performance tests** in mock household environments |
 | **August 2025**| • **Comprehensive testing & documentation** (performance metrics, data fidelity, UX notes)<br>• **Publish development findings** in a project report or paper<br>• **Deliver Minimum Viable Product (MVP)** to stakeholders<br>• **Iterate refinements** to meet performance targets and user feedback |
 
+## Project Management Tools
+
+We leverage a centralized **Notion** workspace to plan, track, and collaborate on every aspect of FORTif.ai. Our Notion hub serves as the single source of truth for:
+
+- **Roadmaps & Timelines:** Interactive Gantt charts and calendar views keep milestones visible.  
+- **Task Boards:** Kanban-style boards for both the AI Chatbot and Hazard Detection subteams.  
+- **Documentation:** Live specs, meeting notes, design guidelines, and API references.  
+- **Knowledge Base:** Central repository for background research, UX guidelines, and stakeholder feedback.  
+
+Access our Notion hub here:  
+🔗 [FORTif.ai Workspace Hub](https://www.notion.so/FORTif-ai-Workspace-Hub-1e93e7920a1180989f58c47cee648df6)  
 
 # The Team
 

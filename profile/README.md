@@ -192,8 +192,8 @@ Hi, I'm Larris, a 1st year CS student at the University of Waterloo. I enjoy pla
 - **Akil Giri** ([`@akilgiri`](https://github.com/akilgiri))
 Hi, I’m Akil, a 3rd year Computer Engineering student at the University of Waterloo. I enjoy playing video games and going on walks in my free time. I’m currently working on AI Chatbot team on FORTif.ai
  
-- **Lucas Khan**
-  Bio coming soon
+- **Lucas Khan** ([`@1-mbps`](https://github.com/1-mbps))
+  Hi, I'm Lucas and I'm a 3rd year Computational Math student. I'm working on the chatbot for FORTIF.ai. In my free time I enjoy running, watching movies, watching and football.
 
 ## Stakeholder Members
 

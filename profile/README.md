@@ -20,26 +20,27 @@ FORTif.ai is an AI-driven companion that empowers seniors to live independently 
 
 ## Project Goals
 
-1. **AI Chatbot (LLM)**: Design and deploy a robust conversational assistant
-   - Develop reliable voice-to-text transcription with built-in quality control
-   - Implement an action-oriented interface for booking appointments and sending medication reminders
-   - Ensure LLM responses are accurate, relevant, and aligned with senior-friendly language
-   - Integrate the chatbot with the back-end Hazard Detection system for contextual alerts
+1. 🤖 **AI Chatbot (LLM)**: Design and deploy a robust conversational assistant  
+   - Develop reliable voice-to-text transcription with built-in quality control  
+   - Implement an action-oriented interface for booking appointments and sending medication reminders  
+   - Ensure LLM responses are accurate, relevant, and aligned with senior-friendly language  
+   - Integrate the chatbot with the back-end Hazard Detection system for contextual alerts  
    - ***AI Topics:*** *Speech Recognition, Prompt Engineering, LLM Evaluation, System Integration*
 
-2. **Hazard Detection (OpenCV)**: Build and validate a vision-based model for home-hazard identification
-   - **Subgoal 1:** Model development to detect obstacles along predefined walkways
-   - **Subgoal 2:** Define performance metrics and risk thresholds (e.g., model accuracy and obstacle risk scoring)
-   - **Subgoal 3:** Curate and preprocess high-quality training datasets (data cleansing, augmentation, transformation)
-   - Quantify obstacle count and relative size for risk prioritization
-   - Establish a 70:30 training-testing data split to evaluate generalization
+2. ⚠️ **Hazard Detection (OpenCV)**: Build and validate a vision-based model for home-hazard identification  
+   - **Subgoal 1:** Model development to detect obstacles along predefined walkways  
+   - **Subgoal 2:** Define performance metrics and risk thresholds (e.g., model accuracy and obstacle risk scoring)  
+   - **Subgoal 3:** Curate and preprocess high-quality training datasets (data cleansing, augmentation, transformation)  
+   - Quantify obstacle count and relative size for risk prioritization  
+   - Establish a 70:30 training–testing data split to evaluate generalization  
    - ***AI Topics:*** *Computer Vision, Object Detection, Data Preprocessing, Model Evaluation*
 
-3. **Integration**: Deliver a seamless, end-to-end user experience
-   - Push real-time hazard alerts and recommendations through the AI chatbot
-   - Conduct end-to-end testing of voice, vision, and notification pipelines
-   - Validate system performance in simulated home environments and user trials
-   - ***AI Topics:*** *Multimodal integration, API Development, UX Design, Automated Testing*
+3. 🔗 **Integration**: Deliver a seamless, end-to-end user experience  
+   - Push real-time hazard alerts and recommendations through the AI chatbot  
+   - Conduct end-to-end testing of voice, vision, and notification pipelines  
+   - Validate system performance in simulated home environments and user trials  
+   - ***AI Topics:*** *Multimodal Integration, API Development, UX Design, Automated Testing*  
+
 
 ## Background
 As the global population ages, many seniors face significant challenges in maintaining their independence while ensuring their safety. Common risks include falls, accidents at home due to environmental hazards, and difficulties in managing daily tasks, such as taking medications or attending appointments. These issues often lead to a decline in quality of life and can result in a need for constant caregiver assistance, which is not always feasible or sustainable.

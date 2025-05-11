@@ -112,6 +112,13 @@ The goal of this project is to address these challenges by providing seniors wit
 
 ## Project Timeline
 
+| Month          | Milestones                                                                                                                                                                                                                   |
+| -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **May 2025**   | - **Preliminary development** of the AI Chatbot and Hazard Detection Model<br>- **Gather CV datasets** of cluttered vs. uncluttered household interiors<br>- **Form subgroups** (software development, model scoring, data cleansing)<br>- **Integrate subteam outputs** into prototype |
+| **June 2025**  | - **Finalize individual components** for both the Hazard Detection and AI Chatbot models<br>- **Conduct preliminary testing & model assessment** (accuracy, precision/recall)<br>- **Develop hazard risk scoring system** using ML methods (cross-validation, ROC analysis)<br>- **Optimize datasets** and thresholds based on test feedback |
+| **July 2025**  | - **Integrate** Hazard Detection and AI Chatbot models into a unified pipeline<br>- **Resolve merge conflicts** and align codebases<br>- **Procure cameras & data-capture tools** for real-world testing<br>- **Run in-situ performance tests** in mock household environments |
+| **August 2025**| - **Comprehensive testing & documentation** (performance metrics, data fidelity, UX notes)<br>- **Publish development findings** in a project report or paper<br>- **Deliver Minimum Viable Product (MVP)** to stakeholders<br>- **Iterate refinements** to meet performance targets and user feedback |
+
 # The Team
 
 ## Technical Project Managers

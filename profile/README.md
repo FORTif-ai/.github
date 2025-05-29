@@ -163,7 +163,11 @@ Access our Notion hub here:
 
 **Role:** AI Chatbot Lead
 
-[Edson Takei](https://www.linkedin.com/in/edsontakei/) 
+### Edson Takei
+
+**Role:** AI Chatbot Lead
+
+[Edson Takei](https://www.linkedin.com/in/edsontakei/) is un undergraduate student at York University studying Software Engineering in the Big Data stream. Edson has academic and applied experience in data analysis, genAI, bioinformatics and digital public health having also pursued research opportunities at the University of Waterloo and McGill University. His work includes leveraging large language models (LLMs) in healthcare to automate manual processes, as well as evaluating the effectiveness of LLMs in public health from both technical and policy-oriented perspectives. Edson leads the development of the AI chatbot subteam of FORTif.ai and oversees the overall architecture and delivery of the FORTif.ai tool. He’s happy to answer questions about project scope, timeline, and the long-term vision for FORTif.ai. 
 
 ## Core Members
 
